@@ -1,4 +1,3 @@
-# Logistics-SLA-Breach-Analysis
 # Logistics-SLA-Penalty-Analysis
 Logistics SLA &amp; Penalty Optimization Analysis using SQL and Tableau. Built analytical models to detect shipment delays, classify SLA violations, and identify outliers using window functions and percentile logic. Applied Pareto analysis to uncover key routes and vendors contributing to 80% of penalty costs (~$923K).
 
